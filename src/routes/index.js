@@ -4,7 +4,7 @@ const router = express.Router();
 
 router.get('/', function (req, res) {
     res.status(200).send({
-        title: 'Meu primeiro servidor <3',
+        title: 'Como derrubar o Kapital em 5 passos <3',
         version: '0.0.1'
     })
 })

@@ -1,44 +1,37 @@
 [
     {
         "id": 1,
-        "dataInclusao": "01/10/2040",
+        "dataInclusao": "30/10/2019",
         "concluido": "false",
         "descricao": "Tarefa 1 - Organizar a classe trabalhadora",
         "nomeColaboradores": "Líderanças do Sindicato"
     },
     {
         "id": 2,
-        "dataInclusao": "01/10/2019",
+        "dataInclusao": "01/12/2019",
         "concluido": "false",
-        "descricao": "Tarefa 2 - Confia",
-        "nomeColaboradores": "Jéssica"
+        "descricao": "Tarefa 2 - Juntar a classe trabalhadora e o movimento estudantil",
+        "nomeColaboradores": "Sindicatos e DCEs"
     },
     {
         "id": 3,
-        "dataInclusao": "01/10/2019",
+        "dataInclusao": "01/05/2020",
         "concluido": "false",
-        "descricao": "Tarefa 3 - Revolução",
-        "nomeColaboradores": "Jéssica"
+        "descricao": "Tarefa 3 - Ditadura do Proletariado",
+        "nomeColaboradores": "Proletariado"
     },
     {
         "id": 4,
-        "dataInclusao": "01/10/2019",
+        "dataInclusao": "01/05/2021",
         "concluido": "false",
-        "descricao": "Tarefa 4 - Ditadura do Proletariado",
-        "nomeColaboradores": "Proletários"
+        "descricao": "Tarefa 4 - Revolução",
+        "nomeColaboradores": "Todos"
     },
     {
         "id": 5,
-        "dataInclusao": "01/10/2019",
+        "dataInclusao": "01/05/2022",
         "concluido": "false",
-        "descricao": "Tarefa 5 - Confia",
-        "nomeColaboradores": "Jéssica"
-    },
-    {
-        "id": 6,
-        "dataInclusao": "01/10/2019",
-        "concluido": "false",
-        "descricao": "Tarefa 6 - Assembléias para manutenção do novo sistema",
+        "descricao": "Tarefa 5 - Assembléias para manutenção do novo sistema",
         "nomeColaboradores": "Todos"
     }
 ]
