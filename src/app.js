@@ -3,7 +3,7 @@ const app = express();
 
 //rotas
 const index = require('./routes/index');
-const tarefas = require('./routes/tarefasRoute');
+const tarefas = require('./routes/tarefasRoute.js');
 
 app.use(function (req, res, next) {
 
